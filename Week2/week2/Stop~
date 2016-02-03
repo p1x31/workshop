@@ -1,0 +1,16 @@
+public class Stop
+{
+	public static void main(String[] args)
+	{
+		Buffered reader = new Bufferedreader(InputSreamreader(System.in));
+		
+		boolean flag = false;
+		while(s.equals("stop"))
+		{
+		Sring s = reader.readLine();
+		flag = true;
+		
+		}
+		
+	}
+}
