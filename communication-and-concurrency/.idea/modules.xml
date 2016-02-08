@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2-races/2-races.iml" filepath="$PROJECT_DIR$/2-races/2-races.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-deadlocks/3-deadlocks.iml" filepath="$PROJECT_DIR$/3-deadlocks/3-deadlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-sockets/4-sockets.iml" filepath="$PROJECT_DIR$/4-sockets/4-sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-blocking-queue/6-blocking-queue.iml" filepath="$PROJECT_DIR$/6-blocking-queue/6-blocking-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-deadlocks/DiningPhilosophers/DiningPhilosophers.iml" filepath="$PROJECT_DIR$/3-deadlocks/DiningPhilosophers/DiningPhilosophers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/communication-and-concurrency.iml" filepath="$PROJECT_DIR$/communication-and-concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-threads/sleep-and-work/sleep-and-work.iml" filepath="$PROJECT_DIR$/1-threads/sleep-and-work/sleep-and-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-threads/sleep-and-work-modified-in-the-lecture/sleep-and-work-modified-in-the-lecture.iml" filepath="$PROJECT_DIR$/1-threads/sleep-and-work-modified-in-the-lecture/sleep-and-work-modified-in-the-lecture.iml" />
+    </modules>
+  </component>
+</project>

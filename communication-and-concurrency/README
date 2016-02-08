@@ -1,0 +1,34 @@
+Communication and concurrency
+-----------------------------
+
+Warning: this folder may be updated and replaced by a new version on Canvas.
+
+We have the following subfolders with teaching examples:
+
+0-introduction
+
+  This is a demo, which contains everything we'll see in this topic,
+  and which I will run in the first lecture.
+
+1-threads
+
+  https://en.wikipedia.org/wiki/Thread_%28computing%29
+  https://docs.oracle.com/javase/tutorial/essential/concurrency/threads.html
+  
+2-races
+
+  https://en.wikipedia.org/wiki/Race_condition
+  https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html
+
+3-deadlocks
+
+  https://en.wikipedia.org/wiki/Deadlock
+  https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
+
+4-sockets
+
+  Client-server systems using sockets
+  https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+  https://docs.oracle.com/javase/tutorial/networking/sockets/
+  
+5-serialization-pitfalls
